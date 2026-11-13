@@ -1,16 +1,32 @@
-## Hi there 👋
+# Cloud & AI Security Engineering
 
-<!--
-**desgita/desgita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring, building, and securing cloud infrastructure and AI systems.
 
-Here are some ideas to get you started:
+## Areas of Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cloud Security
+- AI Security
+- AWS & Cloud Infrastructure
+- Cybersecurity
+- Secure AI Systems
+- Infrastructure Automation
+
+## Technical Learning & Projects
+
+This profile documents my technical learning journey, hands-on labs, engineering projects, security experiments, and technical documentation.
+
+## Current Focus
+
+- Linux Administration
+- Networking Fundamentals
+- AWS Cloud Services
+- Cloud Infrastructure Security
+- Python & Automation
+
+## Technical Philosophy
+
+Building secure, reliable, and resilient technology systems through continuous learning, practical engineering, and security-first thinking.
+
+---
+
+*Learn. Build. Secure. Improve.*
